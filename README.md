@@ -5,3 +5,4 @@ Changed the cartSite to functional site. The key learning outcomes are:
 3. Usage of useReducer with ContextAPI to manage state.
 
 Binod Subedi (2024/11/15)
+Live site link : https://functionalcart.netlify.app/
